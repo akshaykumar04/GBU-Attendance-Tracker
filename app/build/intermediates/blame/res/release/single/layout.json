@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_name_card.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_show_name_card.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_go_to_date.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_go_to_date.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_subjects.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_subjects.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\subjects_list.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\subjects_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_prevatt_row.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_prevatt_row.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_settings.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_detailed_analysis.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_detailed_analysis.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_tutorial.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_header.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_header.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_predictor.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_predictor.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\normal_date_cell.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\f79177c74d3e4f8dbb7a8875dfc4597886243a13\\output\\res\\layout\\normal_date_cell.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_name_and_criteria.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_name_and_criteria.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_go_to_date_old.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_go_to_date_old.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_feedback.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_help.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_help.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\action_bar.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_start_screen.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_start_screen.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_timetable.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_timetable.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_overall_attendance.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_overall_attendance.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_import_export_dialog.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_import_export_dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_about_us.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_weekly_subjects.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_weekly_subjects.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_third.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_weekly_subjects.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_weekly_subjects.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_subjects.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_subjects.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_extra_class.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_extra_class.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_row.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\spinner_row.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_main_row.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_main_row.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\weekday_textview.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\f79177c74d3e4f8dbb7a8875dfc4597886243a13\\output\\res\\layout\\weekday_textview.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\date_grid_fragment.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\f79177c74d3e4f8dbb7a8875dfc4597886243a13\\output\\res\\layout\\date_grid_fragment.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_helper.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_helper.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\square_date_cell.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\f79177c74d3e4f8dbb7a8875dfc4597886243a13\\output\\res\\layout\\square_date_cell.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_need_break.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_need_break.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_predictor.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_predictor.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_view.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\f79177c74d3e4f8dbb7a8875dfc4597886243a13\\output\\res\\layout\\calendar_view.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\add_subject.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\add_subject.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_daywise_subjects.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\custom_daywise_subjects.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_choose_avatar.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_choose_avatar.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_prev_att.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_prev_att.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\settings_single_row.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\settings_single_row.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_help.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_second2.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_first.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Akshay\\.android\\build-cache\\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\\output\\res\\layout\\design_navigation_menu.xml"
+    }
+]

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.akshay.gbuattendance"
+    android:installLocation="auto">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.akshay.gbuattendance.SubjectsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.akshay.gbuattendance.WeeklySubjectsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.NameAndCriteriaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.ChooseAvatarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.DetailedAnalysisActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.GoToDateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.OverallAttendanceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.SettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.ShowNameCardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.ExtraClassActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.FeedbackActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.HelpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.akshay.gbuattendance.StartScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.akshay.gbuattendance.AboutUsActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.akshay.gbuattendance.GoToDateOldActivity" />
+        <activity
+            android:name="com.akshay.gbuattendance.PredictorActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.akshay.gbuattendance.PrevAttActivity"></activity>
+
+        <service
+            android:name="com.akshay.gbuattendance.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.akshay.gbuattendance.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

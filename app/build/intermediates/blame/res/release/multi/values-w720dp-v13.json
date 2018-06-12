@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\\output\\res\\values-w720dp\\values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 76,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    }
+]

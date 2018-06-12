@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 201,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\e9f1a2718a35c1bbcc801022b31a376e3dd82a12\\output\\res\\values-ka\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 201,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 108,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\d072410527a16d8bf5caa41f9a71fc5ecce64a2a\\output\\res\\values-ka\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 104,
+                        "endOffset": 349
+                    }
+                }
+            }
+        ]
+    }
+]

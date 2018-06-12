@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7e48d6617fa57bdd23a35d113612518a048d318a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_a037ca4cdf23cb2c5c74922b7ff07dcca4eb1ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\ac4e0e208745c6a5dd5f3a590ce6b987c85adef5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_9c67b747a6bb341b317aae6958cd96dbb1fd19f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\ba1b1a2121a07c668b754d237f3dbe4276ef26e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_8c1038361f6aa5a0c5bb115ff76b312c0ffc093b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\e53f05f2113ffde249b16ed5261c691b44887e43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_b35cca1af39ce3bdc7815326877698ae8c7e4228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\25b1db1e6235e7e43976b62e630d38e716a26b15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_19ba8b846d5108a2435bd6fc3f1d85ca1e00607c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\8fcf310a4367c498abc54d987f2973ad1d8fa8d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_97f8d53dc473b354c5560874658251aed930fd50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\f7bc7928288c18c2cecc2380658a403880ecf907\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_83620530c75360e39817ddf1755564dd06fb9122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\1e8a1d85df8b02051dc89c7035f5db37040ada87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_237a203c581256fe1c8492afecaa124237c69f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\753eb0a64968a22e3bdc2dfa8c17c9bd3fec55d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dfac2d72691c0eff0a1defff7f1fa4df90746f78">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_03cdb2ce99bec461a8a2bead5484d92219f08ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\6bf86e5061cc0a3afeca18720b7a10c5fe2cbcf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7d1b55d7a57b3212b21718d9a77b0ac40ab4f103">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_c74f6378be396eb3c671690e62864d65c8e82035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\ef2de5f504846e50297465c2b144846f6cb499ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dde1ea8573633db3da4e8c42d541bfa7d03d6720">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_a0e2904ea695842f936da9ec40d2c2e25fb8693b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\c3f257aacafa2cdd8ff52ab0c3d388c5c42226bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_3a80525481d5a6a049b12e187b5eb064f1a11dbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7b5b5909f69c9b98def096a15b459a7a7f3bf23a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="896a608d2350629057d623e18e0b2b32e19591fb">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_4cbf2414decb2d54047982c5f0c3aa73b23515a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\e61c6d4c68567d1d19c4fb2edc978c544babc2dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_31c0f4aae5eb1632efec7c6544778230ab87f95f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\d072410527a16d8bf5caa41f9a71fc5ecce64a2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_46b39392b5b84cde3badc70d96d3d68d5799bfbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\e9f1a2718a35c1bbcc801022b31a376e3dd82a12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_f45d04f5c087868a1d3e4321c8e699dce85e4e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.darwinsys\hirondelle-date4j\1.5.1\7b52de513f87ae4d9ff5d17518def0a1e9bc3df0\hirondelle-date4j-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\hirondelle-date4j-1.5.1_e1478faa89f498f6a57d5d2466bc0f7de64b0785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\02c7772f8785ab87b8546dca984894aa07429201\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_00785cf0f25bdd6c5655297b174ff4db1f19f48b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7f85f6d94857307d8b5c39db59c6c1e4bbfcbf87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_9774cea1dbf3fe250b46c4a5b5058b1ef43bcd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\8ac91a888aa3fd03a687ad9b3add4938c3ef713c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_0e4419a0c9d619107a52238a266adfe58c6581d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\aceb39d21787f9d85fdd2ae3f3627cd5ac067e60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_d4c1c6ca4983d0e36381a825bdd7063a52305839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Users\Akshay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_80dd0b279b9514b87dc8b8b9dc3541d74b46d2a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\f02c24728b17f8be5d793a198ac5a161ece92522\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_79a68e0de1a9eeb608cea394f0c572f2ee301072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\15b8d8eb979dfc8ae3e487ad233f4c742f3212a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="E:\Users\Akshay\AndroidProjects\GBU Attendance Tracker\GBU Attendance Tracker\app\build\intermediates\pre-dexed\debug\classes_c2420eea88333b5cc51b3b5e1c5d8a4c8367794d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mk\\values-mk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 195,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\bb6d16ab637e46e02b6fefe62b4e1761a5075fbe\\output\\res\\values-mk\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 195,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 103,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\98ccc516b7790aaed02e8efd7c76bbb50f692fac\\output\\res\\values-mk\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 99,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

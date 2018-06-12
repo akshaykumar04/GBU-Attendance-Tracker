@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 190,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\bb6d16ab637e46e02b6fefe62b4e1761a5075fbe\\output\\res\\values-lo\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 190,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 103,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\Akshay\\.android\\build-cache\\98ccc516b7790aaed02e8efd7c76bbb50f692fac\\output\\res\\values-lo\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 99,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

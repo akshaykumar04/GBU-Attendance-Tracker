@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_feedback.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\menu\\menu_feedback.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\subject_name.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\menu\\subject_name.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_help.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\menu\\menu_help.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_page_menu.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\menu\\main_page_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\go_to_date_menu.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\menu\\go_to_date_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\predictor_menu.xml",
+        "source": "E:\\Users\\Akshay\\AndroidProjects\\GBU Attendance Tracker\\GBU Attendance Tracker\\app\\src\\main\\res\\menu\\predictor_menu.xml"
+    }
+]

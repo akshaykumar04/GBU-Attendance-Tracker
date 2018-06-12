@@ -1,0 +1,299 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/activity_detailed_analysis.xml #generated:14
+# view res/layout/activity_extra_class.xml #generated:15
+# view res/layout/activity_go_to_date.xml #generated:13
+# view res/layout/activity_main.xml #generated:13
+# view res/layout/activity_overall_attendance.xml #generated:9
+# view res/layout/activity_settings.xml #generated:11
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/activity_go_to_date.xml #generated:20
+# view res/layout/activity_main.xml #generated:20
+-keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
+
+# view res/layout/activity_extra_class.xml #generated:2
+# view res/layout/activity_go_to_date.xml #generated:2
+# view res/layout/activity_main.xml #generated:2
+# view res/layout/activity_name_and_criteria.xml #generated:2
+# view res/layout/activity_subjects.xml #generated:2
+# view res/layout/activity_weekly_subjects.xml #generated:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/activity_go_to_date.xml #generated:280
+# view res/layout/activity_main.xml #generated:252
+# view res/layout/activity_name_and_criteria.xml #generated:151
+# view res/layout/activity_subjects.xml #generated:213
+# view res/layout/activity_weekly_subjects.xml #generated:86
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_weekly_subjects.xml #generated:62
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# view res/layout/activity_feedback.xml #generated:12
+# view res/layout/activity_feedback.xml #generated:32
+-keep class android.support.design.widget.TextInputLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:36
+# view res/layout/activity_start_screen.xml #generated:10
+# view res/layout/activity_weekly_subjects.xml #generated:77
+# view res/layout/custom_help.xml #generated:10
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/activity_detailed_analysis.xml #generated:43
+# view res/layout/activity_go_to_date.xml #generated:103
+# view res/layout/activity_go_to_date.xml #generated:150
+# view res/layout/activity_main.xml #generated:123
+# view res/layout/activity_main.xml #generated:76
+# view res/layout/activity_name_and_criteria.xml #generated:32
+# view res/layout/activity_name_and_criteria.xml #generated:83
+# view res/layout/activity_predictor.xml #generated:14
+# view res/layout/activity_show_name_card.xml #generated:10
+# view res/layout/custom_helper.xml #generated:12
+# view res/layout/custom_main_row.xml #generated:2
+# view res/layout/custom_predictor.xml #generated:2
+# view res/layout/custom_subjects.xml #generated:2
+# view res/layout/custom_timetable.xml #generated:2
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/activity_extra_class.xml #generated:25
+# view res/layout/activity_go_to_date.xml #generated:244
+# view res/layout/activity_go_to_date.xml #generated:97
+# view res/layout/activity_help.xml #generated:18
+# view res/layout/activity_main.xml #generated:216
+# view res/layout/activity_main.xml #generated:70
+# view res/layout/activity_overall_attendance.xml #generated:19
+# view res/layout/activity_predictor.xml #generated:174
+# view res/layout/activity_prev_att.xml #generated:12
+# view res/layout/activity_subjects.xml #generated:63
+# view res/layout/fragment_weekly_subjects.xml #generated:9
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/action_bar.xml #generated:1
+# view res/layout/activity_detailed_analysis.xml #generated:19
+# view res/layout/activity_go_to_date.xml #generated:81
+# view res/layout/activity_help.xml #generated:10
+# view res/layout/activity_main.xml #generated:54
+# view res/layout/activity_name_and_criteria.xml #generated:17
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.akshay.gbuattendance.AboutUsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.akshay.gbuattendance.ChooseAvatarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.akshay.gbuattendance.DetailedAnalysisActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.akshay.gbuattendance.ExtraClassActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.akshay.gbuattendance.FeedbackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.akshay.gbuattendance.GoToDateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.akshay.gbuattendance.GoToDateOldActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.akshay.gbuattendance.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.akshay.gbuattendance.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.akshay.gbuattendance.MyFirebaseInstanceIDService { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.akshay.gbuattendance.MyFirebaseMessagingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.akshay.gbuattendance.NameAndCriteriaActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.akshay.gbuattendance.OverallAttendanceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.akshay.gbuattendance.PredictorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.akshay.gbuattendance.PrevAttActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.akshay.gbuattendance.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.akshay.gbuattendance.ShowNameCardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.akshay.gbuattendance.StartScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.akshay.gbuattendance.SubjectsActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:41
+# view res/layout/activity_start_screen.xml #generated:32
+-keep class com.akshay.gbuattendance.Utils.ProgressPageIndicator { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.akshay.gbuattendance.WeeklySubjectsActivity { <init>(...); }
+
+# view res/layout/calendar_view.xml #generated:36
+-keep class com.antonyt.infiniteviewpager.InfiniteViewPager { <init>(...); }
+
+# view res/layout/activity_name_and_criteria.xml #generated:133
+-keep class com.appyvet.rangebar.RangeBar { <init>(...); }
+
+# view res/layout/custom_main_row.xml #generated:15
+# view res/layout/custom_subjects.xml #generated:12
+# view res/layout/custom_timetable.xml #generated:12
+-keep class com.daimajia.swipe.SwipeLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view res/layout/activity_go_to_date_old.xml #generated:11
+-keep class com.prolificinteractive.materialcalendarview.MaterialCalendarView { <init>(...); }
+
+# view res/layout/activity_settings.xml #generated:38
+-keep class com.rey.material.widget.Switch { <init>(...); }
+
+# view res/layout/normal_date_cell.xml #generated:2
+-keep class com.roomorama.caldroid.CellView { <init>(...); }
+
+# view res/layout/square_date_cell.xml #generated:2
+-keep class com.roomorama.caldroid.SquareTextView { <init>(...); }
+
+# onClick res/layout/activity_subjects.xml #generated:121
+-keepclassmembers class * { *** addEditText(...); }
+
+# onClick res/layout/activity_main.xml #generated:252
+-keepclassmembers class * { *** addExtraClass(...); }
+
+# onClick res/layout/activity_go_to_date.xml #generated:204
+# onClick res/layout/activity_main.xml #generated:177
+-keepclassmembers class * { *** attendAll(...); }
+
+# onClick res/layout/activity_go_to_date.xml #generated:194
+# onClick res/layout/activity_main.xml #generated:167
+-keepclassmembers class * { *** bunkedAll(...); }
+
+# onClick res/layout/activity_subjects.xml #generated:29
+-keepclassmembers class * { *** doneAddSubjects(...); }
+
+# onClick res/layout/activity_weekly_subjects.xml #generated:48
+-keepclassmembers class * { *** doneAddTimetable(...); }
+
+# onClick res/layout/activity_show_name_card.xml #generated:125
+-keepclassmembers class * { *** freshStart(...); }
+
+# onClick res/layout/activity_show_name_card.xml #generated:96
+-keepclassmembers class * { *** importToDatabase(...); }
+
+# onClick res/layout/activity_go_to_date.xml #generated:184
+# onClick res/layout/activity_main.xml #generated:157
+-keepclassmembers class * { *** noClassAll(...); }
+
+# onClick res/layout/activity_choose_avatar.xml #generated:46
+-keepclassmembers class * { *** onClickFemale(...); }
+
+# onClick res/layout/activity_choose_avatar.xml #generated:22
+-keepclassmembers class * { *** onClickMale(...); }
+
+# onClick res/layout/activity_subjects.xml #generated:137
+-keepclassmembers class * { *** removeEditText(...); }
+
+# onClick res/layout/activity_subjects.xml #generated:153
+-keepclassmembers class * { *** showHelp(...); }
+
